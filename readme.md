@@ -6,7 +6,7 @@ Simple boilerplate for single page applications.
 
 * [Webpack](https://webpack.js.org/) for bundling.
 * [Babel](https://babeljs.io/) for es2017 support.
-* [scss](https://sass-lang.com/) for styling.
+* [sass](https://sass-lang.com/) for styling.
 * [jest](https://facebook.github.io/jest/) for JavaScript testing.
 * [semistandard](https://github.com/Flet/semistandard) for JS standard.
 
