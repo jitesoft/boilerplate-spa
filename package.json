@@ -1,7 +1,7 @@
 {
   "name": "boilerplate",
   "version": "1.0.0",
-  "description": "Simple SPA boilerplate using webpack for build.",
+  "description": "Simple SPA boilerplate.",
   "author": "Johannes Tegnér <johannes@jitesoft.com>",
   "license": "MIT",
   "private": false,

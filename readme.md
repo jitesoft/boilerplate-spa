@@ -18,10 +18,10 @@ js files.
 
 ## Setup
 
-Clone and install repo:
+Download and install repo:
 
 ```
-git clone git@github.com:jitesoft/boilerplate-spa.git
+curl -sL https://github.com/jitesoft/boilerplate-spa/archive/1.0.0.tar.gz | tar xz; cd -
 yarn install
 ```
 
