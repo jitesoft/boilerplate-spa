@@ -2,7 +2,7 @@
 
 Simple boilerplate for single page applications.  
 
-## Tech used for compiling
+## Tech 'n stuffs
 
 * [Webpack](https://webpack.js.org/) for bundling.
 * [Babel](https://babeljs.io/) for es2017 support.
