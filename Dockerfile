@@ -4,7 +4,7 @@ WORKDIR /app
 COPY . /app
 RUN npm install -g yarn && \
     yarn install && \
-    yarn buold:prod
+    yarn build:prod
 
 # Set up container image.
 FROM jitesoft/lighttpd
