@@ -14,7 +14,7 @@ module.exports = {
     './js/index.js'
   ],
   output: {
-    filename: '[chunkhash].bundle.js',
+    filename: '[hash].bundle.js',
     path: distPath
   },
   plugins: [
