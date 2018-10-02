@@ -10,7 +10,7 @@ module.exports = {
   context: srcPath,
   target: 'web',
   entry: [
-    'babel-polyfill',
+    '@babel/polyfill',
     './js/index.js'
   ],
   output: {
@@ -49,7 +49,7 @@ module.exports = {
         options: {
           presets: [
             [
-              'env', { targets: { browsers: ['since 2015'] } }
+              '@babel/preset-env', { targets: { browsers: ['since 2015'] } }
             ]
           ]
         }
