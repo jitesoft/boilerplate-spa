@@ -27,6 +27,8 @@ yarn install
 
 Open `package.json` file, change the name of the project and update all meta tags that you wish to have injected into the resulting HTML files.
 
+The SCSS main file should be imported into the JS code for it to compile, it will then be included in the compiled JavaScript code on build.
+
 ### Development
 
 Run `yarn watch` and webpack-serve will start a hot-swap enabled server with the `webpack/webpack.config.dev.js` configuration.  
